@@ -1,2 +1,3 @@
-# modern-game-engine-i26i
+# Modern Game Engine I26I
+
 A repository to test GitHub automation for issue management.
